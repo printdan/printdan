@@ -1,93 +1,37 @@
+<!-- HEADER / NÉVOA -->
 <div align="center">
-
-⚠️ AVISO ⚠️
-
-Você chegou a este lugar por um motivo.
-
-A neblina é espessa aqui. O rádio chia. Não olhe muito tempo para os cantos.
-
-<img width="500" alt="neblina" src="https://github.com/user-attachments/assets/edb503d7-6503-40b0-92da-851c0fbc1512" />
-
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-
+  <pre>
+  🌫️  ... a estática do rádio está ficando mais forte ...  📻
+  </pre>
+  
+  # 🔺 D A N I E L 🔺
+  *“In my restless dreams, I see that town... Diadema.”*
+  
+  <p>
+    <img src="https://img.shields.io/badge/Status-Perdido_na_Névoa-100000?style=for-the-badge&logo=silent-hill&logoColor=red" />
+    <img src="https://img.shields.io/badge/Idade-23_Anos-100000?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/Signo-Touro_♉-100000?style=for-the-badge&logoColor=white" />
+  </p>
 </div>
 
-<br>
+---
 
-### 📝 Nota encontrada no chão, manchada de neblina
+### 📻 [ FREQUÊNCIA DO RÁDIO: SINTONIZADA ]
 
-> Meu nome é Daniel. Tenho 23 anos. Acordei aqui algum tempo atrás, acho que vim de Diadema, São Paulo. Ninguém mais responde as mensagens. Ouvi dizer que se você ficar muito tempo aqui você esquece o seu nome. Ainda lembro o meu. Acho.
+> *"O medo do sangue tende a criar o medo da carne..."*  
+> Bem-vindo ao meu perfil. Eu sou o **Daniel**, tenho 23 anos e sobrevivo diariamente à névoa de **Diadema, São Paulo**. Como um bom taurino, sou persistente o suficiente para continuar andando mesmo quando as sirenes começam a tocar e o mundo ao meu redor muda.
 
-> Taurino. Vou discutir sobre ponto de pizza por três horas mesmo que a Pirâmide Cabeça esteja parado na porta.
+Aqui no GitHub, meu foco é desvendar o desconhecido. Sou extremamente curioso com **Inteligência Artificial** (a nova feitiçaria da nossa era) e passo meu tempo codando projetos aleatórios e criativos — moldando o código como se estivesse moldando a minha própria realidade alternativa.
 
-<br>
+---
 
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+### 👁️ O OUTRO LADO (Tech & AI)
 
-<br>
+Quando as sirenes tocam, eu me tranco e começo a programar. Gosto de explorar novas tecnologias e ver até onde a criatividade pode levar um algoritmo.
 
-### 🎒 Coisas que eu trouxe comigo para esta cidade
-
-| Item | Observação |
-|---|---|
-| 🎮 Valorant | Eu não sou tóxico juro |
-| 🛋️ Habbo | O único lugar seguro em todo o multiverso |
-| 💥 Marvel Rivals | Eu só jogo Venom não me julgue |
-| 🎞️ Filmes | Silent Hill, As Vantagens de Ser Invisível, De Repente 30 |
-| 🧠 Interesse principal | Inteligência Artificial |
-| ✂️ Vício | Codar coisas absolutamente inúteis as 3 da manhã |
-
-<sub>* De Repente 30 é canonicamente o final bom de Silent Hill</sub>
-
-<br>
-
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-
-<br>
-
-### 📁 Arquivos encontrados no apartamento vazio
-
-Eu não faço projetos uteis. Eu faço coisas estúpidas, engraçadas e estranhas que ninguém pediu. A maioria usa inteligência artificial. Nenhuma delas tem documentação adequada. Metade delas para de funcionar depois de uma semana.
-
-> Não existe nada pior do que uma ideia boa as 2 da manhã.
-
-- 90% dos repositórios aqui são alguma aberração gerada por um prompt que eu achei engraçado
-- Eu tento explicar o minimo possivel sobre como elas funcionam
-- Algumas estão assombradas
-- Nenhuma vai te ajudar no seu trabalho de faculdade
-
-<br>
-
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-
-<br>
-
-### 📻 Status do rádio
-
-O rádio esta chiando um pouco ultimamente.
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=graywhite&hide_border=true)
-
-> Não há nenhuma figura parada no canto superior direito da imagem. Pare de olhar.
-
-<br>
-
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-
-<br>
-
-<div align="center">
-
-Existem muitos finais.
-
-Nenhum deles é certo.
-
-Nenhum deles é errado.
-
-<br>
-
-<sub>A neblina segue você inclusive em Diadema.</sub>
-
-<sub><s>Olhe por trás de você</s></sub>
-
-</div>
+```yaml
+[ARQUIVO_DO_PACIENTE_#23]
+Especialidade: Projetos Criativos & Aleatórios
+Foco_Atual: Inteligência Artificial & Novas Tecnologias
+Equipamento: Teclado, Café e Resiliência Taurina
+Status_Mental: Explorando redes neurais na escuridão
