@@ -21,7 +21,7 @@
 > *"O medo do sangue tende a criar o medo da carne..."*  
 > Bem-vindo ao meu perfil. Eu sou o **Daniel**, tenho 23 anos e sobrevivo diariamente à névoa de **Diadema, São Paulo**. Como um bom taurino, sou persistente o suficiente para continuar andando mesmo quando as sirenes começam a tocar e o mundo ao meu redor muda.
 
-Aqui no GitHub, meu foco é desvendar o desconhecido. Sou extremamente curioso com **Inteligência Artificial** (a nova feitiçaria da nossa era) e passo meu tempo codando projetos aleatórios e criativos — moldando o código como se estivesse moldando a minha própria realidade alternativa.
+Aqui no GitHub, meu foco é desvendar o desconhecido. Sou extremamente curioso com **Inteligência Artificial**  e passo meu tempo codando projetos criativos, moldando o código como se estivesse moldando a minha própria realidade.
 
 ---
 
@@ -31,7 +31,7 @@ Quando as sirenes tocam, eu me tranco e começo a programar. Gosto de explorar n
 
 ```yaml
 [ARQUIVO_DO_PACIENTE_#23]
-Especialidade: Projetos Criativos & Aleatórios
+Especialidade: QA Tester, IA Coding, Automações & RPA
 Foco_Atual: Inteligência Artificial & Novas Tecnologias
-Equipamento: Teclado, Café e Resiliência Taurina
+Equipamento: Teclado, Chá e Resiliência Taurina
 Status_Mental: Explorando redes neurais na escuridão
